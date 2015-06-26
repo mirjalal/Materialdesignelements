@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="statusBarColor">#0288D1</color>
+    <color name="appBarColor">#03A9F4</color>
+    <color name="accentColor">#18FFFF</color>
+</resources>
